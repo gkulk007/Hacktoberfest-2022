@@ -14,7 +14,7 @@
 2. Open the terminal and clone your fork using
 
 ```
-git clone http://github.com/{your_username}/Hacktoberfest-web
+git clone http://github.com/{your_username}/Hacktoberfest-2022
 ```
 
 3. Before making changes, in the project directory checkout to a new branch with name of your choice
